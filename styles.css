@@ -1,0 +1,120 @@
+.bg{
+    background-color: rgb(18, 193, 193);
+
+}
+
+.right{
+    align-self: end;
+}
+.left{
+    align-items: start;
+}
+
+li{
+    display: inline-block;
+}
+
+
+nav{
+    height: fit-content;
+    background-color: darkgray;
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+form{
+    margin-top: 30px;
+    width: 50%;
+    border: 2px solid rgba(184, 181, 181, 0.76) ;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h1{
+    align-content: center;
+}
+
+button{
+    margin: 10px;
+}
+
+h6{
+   color: rgb(154, 150, 150);
+}
+
+.input-group{
+    padding: 30px;
+}
+
+form{
+    display: block;
+}
+
+footer
+{
+
+text-align: center;
+justify-content: center;
+background-color: darkgrey;
+}
+
+.flex {
+    background-color: rgb(44, 164, 208);
+    text-align: center;
+
+}
+
+.card{
+    margin: 15px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-body{
+    background-color: rgb(44, 164, 208);
+    border: 2px solid rgb(44, 164, 208);
+}
+
+.blue{
+    background-color: aqua;
+}
+
+.tele{
+    background-color: rgb(3, 165, 253);
+    border-radius: 15px;
+    border: 1px solid;
+}
+
+#home{
+    height: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+   
+    margin: 15%;
+    justify-content: center;  
+}
+
+.slide{
+    margin-top: -25px;
+}
+
+h3{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+footer img{
+   width: 100%;
+
+}
